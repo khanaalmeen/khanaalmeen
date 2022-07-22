@@ -1,8 +1,3 @@
-(p align="left")(img src="https://komarev.com/ghpvc/?username=k...
-" alt="khanaalmeen" /)(/p)
-
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...
-")
 
 
 
