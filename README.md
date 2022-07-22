@@ -1,3 +1,11 @@
+(p align="left")(img src="https://komarev.com/ghpvc/?username=k...
+" alt="khanaalmeen" /)(/p)
+
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...
+")
+
+
+
 <h1 align="center">Hi 👋, I'm Aalmeen Khan</h1>
 <h3 align="center">I’m interested in programming and coding in Python and SQL. I love learning new skill and expanding my knowledge.</h3>
 
