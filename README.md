@@ -1,3 +1,7 @@
+<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif" height="175px"/></a>
+
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm AALMEEN KHAN</h1>
 
 
 
@@ -17,7 +21,9 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Aalmeen Khan</h1>
+
+
+
 <h3 align="center">I’m interested in programming and coding in Python and SQL. I love learning new skill and expanding my knowledge.</h3>
 
 
@@ -25,9 +31,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanaalmeen&label=Profile%20views&color=0e75b6&style=flat" alt="khanaalmeen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanaalmeen" alt="khanaalmeen" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif">
+
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5d08f42ea1e15f00016f7e14/1605714340505-O0VHXGLNBI8HWVZZEYBR/female-developer-vector.jpg">
 
 
 
@@ -36,7 +42,13 @@
 - 👨‍💻 All of my projects are available at [https://github.com/khanaalmeen](https://github.com/khanaalmeen)
 
 - 📫 How to reach me **aalmeenkhan786@gmail.com**
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aalmeen-k-8985171aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aalmeen-k-8985171aa/" height="30" width="40" /></a>
@@ -48,6 +60,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanaalmeen&show_icons=true&locale=en&layout=compact" alt="khanaalmeen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanaalmeen&show_icons=true&locale=en" alt="khanaalmeen" /></p>
+ 
 
+ 
+
+<a href="https://github.com/khanaalmeen/github-readme-activity-graph"><img alt="Aalmeen Khan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khanaalmeen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+ 
 
 
