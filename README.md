@@ -1,13 +1,35 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Aalmeen Khan</h1>
 <h3 align="center">I’m interested in programming and coding in Python and SQL. I love learning new skill and expanding my knowledge.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif
-")
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanaalmeen&label=Profile%20views&color=0e75b6&style=flat" alt="khanaalmeen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanaalmeen" alt="khanaalmeen" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif">
+
+
 
 - 🌱 I’m currently learning **Data Science**
 
